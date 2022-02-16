@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xada4a75eebd76f5ebad68b43ac60362f466e49d8",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x920ccb24411427b839fef448511fe9fb7e25b904ae66a8728ea3399441997253",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Happy Moon Faces",
+  "SYMBOL": "HMFNFT",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 4000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/HappyMoonFaces",
+  "SHOW_BACKGROUND": true
+}
